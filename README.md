@@ -67,7 +67,11 @@ void loop() {
   }
 }
 ```
+### 📋 What the code does
 
+- Moves 4 servo motors (D6, D9, D10, D11)
+- Sweeps from 0° to 180° and back in sync
+- Shows how to use `Servo.h` library with multiple motors
 
 ## 🚀 Getting Started
 
