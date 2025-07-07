@@ -73,6 +73,20 @@ void loop() {
 - Sweeps from 0° to 180° and back in sync
 - Shows how to use `Servo.h` library with multiple motors
 
+## 🎬 Real-World Demo
+
+This project was successfully tested in a real setup using **four servo motors**, a **breadboard**, and an **Arduino Uno**.  
+To ensure smooth and stable performance, an **external 5V battery pack** was used to power the servos.
+
+> ⚠️ **Power Tip:** All servo motors were powered through a shared 5V rail on the breadboard, connected to an external battery.  
+> The **GND of the battery** was also connected to the **GND of the Arduino** to ensure a common ground.
+
+## 🎥 Demo Video
+
+A demo video showing the four servo motors in action is included in this repository.  
+[Download and watch 4-servo-vid.MOV](./4-servo-vid.MOV)
+
+
 ## 🚀 Getting Started
 
 1. Connect the servo motors as shown.
