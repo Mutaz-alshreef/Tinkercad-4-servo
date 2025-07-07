@@ -84,7 +84,7 @@ To ensure smooth and stable performance, an **external 5V battery pack** was use
 ## 🎥 Demo Video
 
 A demo video showing the four servo motors in action is included in this repository.  
-[Download and watch 4-servo-vid.MOV](Tinkercad-4-servo/4-servo-vid.MOV)
+[Download and watch 4-servo-vid.MOV](4-servo-vid.MOV)
 
 
 ## 🚀 Getting Started
