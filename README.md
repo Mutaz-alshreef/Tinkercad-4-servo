@@ -25,7 +25,7 @@ This project demonstrates how to control **four servo motors** using an **Arduin
 
 ## 💡 Circuit Diagram
 
-![servo-arduino](<4-servo-move.png>)
+![servo-arduino](<4-servo-moving.png>)
 
 ---
 ### 🔧 Arduino Code
