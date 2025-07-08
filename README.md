@@ -81,9 +81,6 @@ To ensure smooth and stable performance, an **external 5V battery pack** was use
 > ⚠️ **Power Tip:** All servo motors were powered through a shared 5V rail on the breadboard, connected to an external battery.  
 > The **GND of the battery** was also connected to the **GND of the Arduino** to ensure a common ground.
 
-## 🎥 Demo Video
-
-A demo video showing the four servo motors in action is included in this repository.  
 [Download and watch 4-servo-vid.MOV](4-servo-vid.MOV)
 
 
